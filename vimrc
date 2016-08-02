@@ -2,5 +2,6 @@
 set number
 syntax on
 
-"" show file trees in explorer
+"" vexplorer setting
 let g:netrw_liststyle=3
+let g:netrw_localrmdir='rm -r'
